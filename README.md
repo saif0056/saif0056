@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohd Saif</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saif0056&label=Profile%20views&color=0e75b6&style=flat" alt="saif0056" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/saif0056" target="blank"><img src="https://img.shields.io/twitter/follow/saif0056?logo=twitter&style=for-the-badge" alt="saif0056" /></a> </p>
 
-- 🔭 I’m currently working on **Study Notion**
+- 🔭 I’m currently working on **Citycart**
 
-- 🌱 I’m currently learning **Backend Developement**
+- 🌱 I’m currently learning **Devops Developement**
 
 - 👨‍💻 All of my projects are available at [https://saif-portfolio-two.vercel.app/](https://saif-portfolio-two.vercel.app/)
 
